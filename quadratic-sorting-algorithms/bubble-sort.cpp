@@ -6,7 +6,6 @@ using std::cin;
 using std::endl;
 
 
-
 //Implementation of Quadratec Sorting Algorithms O(n2) (Bubble Sort)
 /*
 # Bubble Sort Idea:

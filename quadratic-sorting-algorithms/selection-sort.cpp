@@ -5,7 +5,6 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-
 //Implementation of Quadratec Sorting Algorithms O(n2) (selection sort)
 /*
 # Selection Sort Idea:
